@@ -4,14 +4,7 @@ import { getTranslations, setRequestLocale } from "next-intl/server";
 import { use } from "react";
 
 import PageHeader from "@/components/page-header";
-import {
-  MY_NAME,
-  SITE_FACEBOOK_URL,
-  SITE_GITHUB_URL,
-  SITE_INSTAGRAM_URL,
-  SITE_X_URL,
-  SITE_YOUTUBE_URL,
-} from "@/lib/constants";
+import { MY_NAME, SITE_GITHUB_URL, SITE_INSTAGRAM_URL } from "@/lib/constants";
 import { getPageBySlug } from "@/lib/content";
 
 const Page = (props: PageProps<"/[locale]/about">) => {
