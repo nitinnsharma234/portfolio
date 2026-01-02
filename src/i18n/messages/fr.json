@@ -1,0 +1,288 @@
+{
+  "about": {
+    "description": "Salut ! Je suis Nitin, un Développeur Full Stack avec plus de 3 ans d'expérience dans la création d'applications mobiles multiplateformes et d'applications web. Expert en Flutter, Dart, React, Node.js, MongoDB et PostgreSQL. Découvrez mon portfolio !"
+  },
+  "account": {
+    "account-created": "Compte créé",
+    "active-sessions": "Sessions actives",
+    "avatar": "Avatar",
+    "description": "Gérez votre compte.",
+    "display-name": "Nom d’affichage",
+    "edit-name": "Modifier le nom",
+    "edit-name-description": "Modifiez votre nom d’affichage. Ce nom apparaîtra sur votre profil et vos commentaires.",
+    "email": "E-mail",
+    "no-active-sessions": "Aucune session active",
+    "profile": "Profil",
+    "revoke-session": "Révoquer",
+    "this-device": "Cet appareil",
+    "update-avatar": "Mettre à jour l’avatar"
+  },
+  "admin": {
+    "page-header": {
+      "comments": {
+        "description": "Gérer les commentaires"
+      },
+      "users": {
+        "description": "Gérer les utilisateurs"
+      }
+    }
+  },
+  "blog": {
+    "comments": {
+      "author": "Auteur",
+      "comments": "{count, plural, =1 {commentaire} other {commentaires}}",
+      "copy-link": "Copier le lien",
+      "dislike": "Je n’aime pas",
+      "highlighted-comment": "Commentaire mis en avant",
+      "newest": "Les plus récents",
+      "no-comments": "Aucun commentaire",
+      "oldest": "Les plus anciens",
+      "open-menu": "Ouvrir le menu",
+      "placeholder": "Laissez un commentaire",
+      "preview": "Aperçu",
+      "replies": "{count, plural, =1 {réponse} other {réponses}}",
+      "reply": "Répondre",
+      "reply-to-comment": "Répondre au commentaire",
+      "send-comment": "Envoyer le commentaire",
+      "sort-by": "Trier par",
+      "this-comment-has-been-deleted": "[Ce commentaire a été supprimé]",
+      "toggle-bold": "Gras",
+      "toggle-italic": "Italique",
+      "toggle-strikethrough": "Barré",
+      "write": "Écrire"
+    },
+    "description": "Découvrez mon blog où je partage des tutoriels, des notes et des expériences en tant que Développeur Full Stack basé à Delhi. Spécialisé en Flutter, React, Node.js et technologies cloud. Explorez mon parcours !",
+    "footer": {
+      "edit-on-github": "Modifier sur GitHub",
+      "last-updated": "Dernière mise à jour : {date}"
+    },
+    "header": {
+      "published-on": "Publié le",
+      "views": "Vues",
+      "written-by": "Écrit par"
+    },
+    "like-this-post": "J’aime cet article",
+    "on-this-page": "Sur cette page"
+  },
+  "command-menu": {
+    "actions": {
+      "copy-link": "Copier le lien",
+      "source-code": "Code source"
+    },
+    "groups": {
+      "social": "Social"
+    },
+    "no-results": "Aucun résultat trouvé.",
+    "open-menu": "Ouvrir le menu de commande",
+    "placeholder": "Tapez une commande ou recherchez"
+  },
+  "common": {
+    "cancel": "Annuler",
+    "delete": "Supprimer",
+    "dialogs": {
+      "delete-comment": {
+        "description": "Voulez-vous vraiment supprimer ce commentaire ? Cette action est irréversible.",
+        "title": "Supprimer un commentaire"
+      }
+    },
+    "error": "Erreur",
+    "labels": {
+      "about": "À propos",
+      "account": "Compte",
+      "blog": "Blog",
+      "comment": "Commentaire",
+      "comments": "Commentaires",
+      "dashboard": "Tableau de bord",
+      "experience": "Expérience",
+      "facebook": "Facebook",
+      "general": "Général",
+      "github": "GitHub",
+      "guestbook": "Livre d’or",
+      "home": "Accueil",
+      "instagram": "Instagram",
+      "links": "Liens",
+      "privacy": "Politique de confidentialité",
+      "projects": "Projets",
+      "settings": "Paramètres",
+      "terms": "Conditions d’utilisation",
+      "unsubscribe": "Se désabonner",
+      "users": "Utilisateurs",
+      "youtube": "YouTube"
+    },
+    "like": "J’aime",
+    "likes": "{count, plural, =1 {# j’aime} other {# j’aimes}}",
+    "save": "Enregistrer",
+    "sign-in": "Se connecter",
+    "sign-out": "Se déconnecter",
+    "unknown": "Inconnu",
+    "views": "{count, plural, =1 {# vue} other {# vues}}"
+  },
+  "experience": {
+    "description": "Mon parcours professionnel en tant que Développeur Full Stack, créant des applications mobiles et web évolutives.",
+    "present": "Présent"
+  },
+  "components": {
+    "filtered-posts": {
+      "no-posts-found": "Aucun article trouvé",
+      "placeholder": "Rechercher des articles"
+    },
+    "go-to-homepage": "Aller à la page d’accueil"
+  },
+  "dashboard": {
+    "description": "Ceci est mon tableau de bord personnel, construit avec les routes API de Next.js déployées en fonctions sans serveur. Je l’utilise pour suivre diverses statistiques sur YouTube, GitHub et d’autres plateformes.",
+    "stat": {
+      "blog-total-likes": "Total des j’aime du blog",
+      "blog-total-views": "Total des vues du blog",
+      "coding-hours": "Heures de codage",
+      "github-followers": "Abonnés GitHub",
+      "github-stars": "Étoiles GitHub",
+      "youtube-subscribers": "Abonnés YouTube",
+      "youtube-views": "Vues YouTube"
+    }
+  },
+  "dialog": {
+    "sign-in": {
+      "continue-with": "Continuer avec {provider}",
+      "description": "pour continuer sur nelsonlai.dev",
+      "last-used": "Dernière utilisation",
+      "notice": "En continuant, vous acceptez nos <terms>Conditions d’utilisation</terms> et notre <privacy>Politique de confidentialité</privacy>"
+    }
+  },
+  "error": {
+    "avatar-too-large": "Le fichier de l’avatar est trop volumineux. Choisissez un fichier de moins de {size} Mo.",
+    "avatar-unsupported-file": "Veuillez choisir un type d’image pris en charge (JPEG, PNG, WEBP, GIF, AVIF).",
+    "comment-cannot-be-empty": "Le commentaire ne peut pas être vide",
+    "copy-to-clipboard-error": "Impossible de copier dans le presse-papiers. Réessayez.",
+    "failed-to-fetch-comments-data": "Échec du chargement des commentaires. Actualisez la page.",
+    "failed-to-fetch-users-data": "Échec du chargement des utilisateurs. Actualisez la page.",
+    "failed-to-load": "Échec du chargement.",
+    "failed-to-load-comments": "Impossible de charger les commentaires.",
+    "failed-to-load-messages": "Impossible de charger les messages.",
+    "failed-to-load-replies": "Impossible de charger les réponses.",
+    "like-limit-reached": "Vous ne pouvez aimer qu’un maximum de 3 fois par article",
+    "message-cannot-be-empty": "Le message ne peut pas être vide",
+    "name-cannot-be-empty": "Le nom ne peut pas être vide",
+    "name-too-long": "Le nom est trop long",
+    "need-logged-in-to-vote": "Vous devez être connecté pour voter",
+    "not-found": "Page non trouvée.",
+    "now-playing-error": "Échec de la récupération des données Spotify",
+    "reply-cannot-be-empty": "La réponse ne peut pas être vide",
+    "sign-in-error": "Échec de la connexion. Réessayez.",
+    "sign-out-failed": "Échec de la déconnexion. Réessayez.",
+    "something-went-wrong": "Une erreur s’est produite. Réessayez.",
+    "update-avatar-failed": "Échec de la mise à jour de l’avatar.",
+    "try-again": "Réessayer"
+  },
+  "guestbook": {
+    "description": "Signez mon livre d’or et partagez vos idées. Dites-moi ce que vous voulez !",
+    "no-messages": "Aucun message. Soyez le premier à en laisser un !",
+    "pinned": {
+      "description": "Merci de visiter mon site ! Si vous avez un moment, j’aimerais connaître votre avis. Connectez-vous pour laisser un message. Merci !",
+      "greeting": "Salut ! 👋"
+    },
+    "placeholder": "Laissez un message",
+    "signin": {
+      "description": "pour laisser un message"
+    },
+    "submit": "Envoyer"
+  },
+  "homepage": {
+    "about-me": {
+      "coding-hours": "Heures de codage",
+      "connect": "Se connecter",
+      "fav-framework": "Framework préféré",
+      "location": "Delhi",
+      "more": "En savoir plus sur moi",
+      "stacks": "Technos",
+      "title": "À propos de moi"
+    },
+    "get-in-touch": {
+      "description": "N’hésitez pas à me contacter !",
+      "image-alt": "Logo de Nitin",
+      "title": "Des questions sur Next.js ?"
+    },
+    "hero": {
+      "amazing": "Incroyable",
+      "attractive": "Attrayant",
+      "fantastic": "Fantastique",
+      "location-timezone": "Delhi • UTC/GMT +5:30",
+      "stunning": "Superbe",
+      "title-bottom": "React",
+      "title-middle-left": "créant",
+      "title-middle-right": "des sites web avec",
+      "title-top": "Je suis Nitin, ingénieur Full Stack"
+    },
+    "latest-articles": {
+      "card": "Article",
+      "more": "Voir tous les articles",
+      "title": "Derniers articles"
+    },
+    "selected-projects": {
+      "card": "Projet",
+      "more": "Voir tous les projets",
+      "title": "Projets sélectionnés"
+    }
+  },
+  "layout": {
+    "change-language": "Changer la langue",
+    "now-playing": {
+      "loading": "Chargement...",
+      "not-listening": "Pas en écoute - Spotify"
+    },
+    "skip-to-main-content": "Aller au contenu principal",
+    "toggle-menu": "Basculer le menu"
+  },
+  "mdx": {
+    "link-to-section": "Lien vers la section"
+  },
+  "metadata": {
+    "site-description": "Nitin Sharma est un Développeur Full Stack basé à Delhi avec plus de 3 ans d'expérience. Il crée des applications mobiles performantes avec Flutter et des applications web avec React, Node.js, MongoDB et PostgreSQL."
+  },
+  "privacy": {
+    "description": "Cette page explique comment nous protégeons vos données et votre vie privée lors de l’utilisation de notre site."
+  },
+  "projects": {
+    "description": "Une collection de mes projets réalisés avec passion.",
+    "visit-website": "Visiter le site"
+  },
+  "settings": {
+    "description": "Gérez vos paramètres.",
+    "notification-settings": "Paramètres de notification",
+    "reply-notification": "Notification de réponse",
+    "reply-notification-description": "Recevoir un e-mail lorsqu’une personne répond à votre commentaire."
+  },
+  "success": {
+    "avatar-updated": "Avatar mis à jour avec succès",
+    "comment-deleted": "Commentaire supprimé",
+    "comment-posted": "Commentaire publié",
+    "copied-to-clipboard": "Copié dans le presse-papiers",
+    "link-copied": "Lien copié",
+    "message-created": "Message créé avec succès",
+    "message-deleted": "Message supprimé",
+    "name-updated": "Nom d’affichage mis à jour",
+    "reply-posted": "Réponse publiée",
+    "session-revoked": "Session révoquée",
+    "settings-saved": "Paramètres enregistrés",
+    "signed-out": "Déconnecté avec succès"
+  },
+  "terms": {
+    "description": "Ces conditions générales définissent les règles d’utilisation de notre site."
+  },
+  "theme-toggle": {
+    "options": {
+      "dark": "Sombre",
+      "light": "Clair",
+      "system": "Système"
+    },
+    "toggle-theme": "Changer le thème"
+  },
+  "unsubscribe": {
+    "invalid-link-description": "Le lien de désabonnement est invalide. Réessayez.",
+    "invalid-unsubscribe-link": "Lien de désabonnement invalide",
+    "stop-receiving-email-notifications": "Arrêter de recevoir les notifications par e-mail pour cette réponse",
+    "unsubscribe-from-this-comment": "Se désabonner de ce commentaire",
+    "unsubscribed-description": "Vous ne recevrez plus d’e-mails de notification pour cette réponse.",
+    "you-are-unsubscribing-as": "Vous vous désabonnez en tant que {email}",
+    "you-have-been-unsubscribed": "Vous avez été désabonné"
+  }
+}
